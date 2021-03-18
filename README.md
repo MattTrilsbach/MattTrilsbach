@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MattTrilsbach
-- 👀 I’m interested in full-stack projects
-- 🌱 I’m currently learning swiftui
-- 💞️ I’m looking to collaborate on .. i'm open to ideas!
+- 👀 I’m interested in full stack projects
+- 🌱 I’m currently learning SwiftUI
+- 💞️ I’m looking to collaborate on .. I'm open to ideas!
 - 📫 How to reach me .. matt.trilsbach@outlook.com
 
 <!---
