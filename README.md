@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MattTrilsbach
-- 👀 I’m interested in full-stack projects
-- 🌱 I’m currently learning swiftui
-- 💞️ I’m looking to collaborate on .. i'm open to ideas!
-- 📫 How to reach me .. matt.trilsbach@outlook.com
+👋 Hey, I’m @MattTrilsbach
+🌱 I’m currently exploring Next.js 14
+💞️ I’m open to collaborate
+📫 Reach me on twitter/x at @MatthiasTech or contact@matthiastrilsbach.com
 
 <!---
 MattTrilsbach/MattTrilsbach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
